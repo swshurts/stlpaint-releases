@@ -12,7 +12,7 @@ and download the file for your system:
 
 | System | File | Notes |
 |---|---|---|
-| Windows 10/11 (64-bit) | `STLPaint Setup <version>.exe` | Run the installer. Windows may show a SmartScreen prompt the first time. |
+| Windows 10/11 (64-bit) | `STLPaint-Setup-<version>.exe` | Run the installer. Windows may show a SmartScreen prompt the first time. |
 | Linux (x86-64) | `STLPaint-<version>.AppImage` | Mark it executable (`chmod +x`) and run it. |
 
 There is no macOS build.
@@ -25,7 +25,7 @@ PC" prompt can still appear. Choose **More info → Run anyway**. You can confir
 signature yourself before running it:
 
 ```powershell
-Get-AuthenticodeSignature .\STLPaint*.exe | Format-List Status, SignerCertificate
+Get-AuthenticodeSignature .\STLPaint-Setup-*.exe | Format-List Status, SignerCertificate
 ```
 
 `Status` should be `Valid`.

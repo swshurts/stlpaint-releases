@@ -2,7 +2,9 @@
 # STLPaint downloads
 
 Installers for STLPaint, a desktop tool for painting 3D models that are going to be
-printed, then exporting them with the colours intact.
+printed, then exporting them with the colors intact. If you would like to contribute 
+to the on-going development of tools for 3D-printer users, please consider buying me 
+a large Diet Code or a new Ferrari (I'm flexible...) at [https://forgeslicer.com/support](https://forgeslicer.com/support)
 
 User Guides: PDF File  - [stlpaint-user-manual.pdf](https://github.com/user-attachments/files/34995443/stlpaint-user-manual.pdf)
              Docx File - [stlpaint-user-manual.docx](https://github.com/user-attachments/files/34995442/stlpaint-user-manual.docx)

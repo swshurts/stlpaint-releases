@@ -1,7 +1,11 @@
+<img width="1087" height="809" alt="STLPaint Main Screen" src="https://github.com/user-attachments/assets/d94388e7-c8cb-4706-9b11-92bd07268e11" />
 # STLPaint downloads
 
 Installers for STLPaint, a desktop tool for painting 3D models that are going to be
 printed, then exporting them with the colours intact.
+
+User Guides: PDF File  - [stlpaint-user-manual.pdf](https://github.com/user-attachments/files/34995443/stlpaint-user-manual.pdf)
+             Docx File - [stlpaint-user-manual.docx](https://github.com/user-attachments/files/34995442/stlpaint-user-manual.docx)
 
 This repository holds **downloads only**. The source code is not published here.
 
